@@ -2,11 +2,6 @@
 
 This repository contains the source code for the Employee Management System. This project is built using Laravel and provides API endpoints for managing employee records.
 
-## Table of Contents
-
-- [Setup Instructions](#setup-instructions)
-- [Running the Application](#running-the-application)
-- [API Documentation](#api-documentation)
 
 
 ## Setup Instructions
